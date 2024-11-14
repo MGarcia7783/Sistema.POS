@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POS", "POS\POS.csproj", "{69C42AEB-3636-4A6E-B63D-BF7588CB830B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DB", "DB\DB.csproj", "{4309BCAD-880D-4697-867A-2BE5CC6ED517}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69C42AEB-3636-4A6E-B63D-BF7588CB830B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69C42AEB-3636-4A6E-B63D-BF7588CB830B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69C42AEB-3636-4A6E-B63D-BF7588CB830B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69C42AEB-3636-4A6E-B63D-BF7588CB830B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4309BCAD-880D-4697-867A-2BE5CC6ED517}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4309BCAD-880D-4697-867A-2BE5CC6ED517}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4309BCAD-880D-4697-867A-2BE5CC6ED517}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4309BCAD-880D-4697-867A-2BE5CC6ED517}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19BB47BA-BB3F-40AC-A5F5-910CA839E110}
+	EndGlobalSection
+EndGlobal

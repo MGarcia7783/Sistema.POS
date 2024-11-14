@@ -1,0 +1,12 @@
+C:\Programacion\C#\Asp.net\.NetCore\Sistema.POS\Sistema.POS\DB\bin\Debug\net8.0\DB.deps.json
+C:\Programacion\C#\Asp.net\.NetCore\Sistema.POS\Sistema.POS\DB\bin\Debug\net8.0\DB.dll
+C:\Programacion\C#\Asp.net\.NetCore\Sistema.POS\Sistema.POS\DB\bin\Debug\net8.0\DB.pdb
+C:\Programacion\C#\Asp.net\.NetCore\Sistema.POS\Sistema.POS\DB\obj\Debug\net8.0\DB.csproj.AssemblyReference.cache
+C:\Programacion\C#\Asp.net\.NetCore\Sistema.POS\Sistema.POS\DB\obj\Debug\net8.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\C#\Asp.net\.NetCore\Sistema.POS\Sistema.POS\DB\obj\Debug\net8.0\DB.AssemblyInfoInputs.cache
+C:\Programacion\C#\Asp.net\.NetCore\Sistema.POS\Sistema.POS\DB\obj\Debug\net8.0\DB.AssemblyInfo.cs
+C:\Programacion\C#\Asp.net\.NetCore\Sistema.POS\Sistema.POS\DB\obj\Debug\net8.0\DB.csproj.CoreCompileInputs.cache
+C:\Programacion\C#\Asp.net\.NetCore\Sistema.POS\Sistema.POS\DB\obj\Debug\net8.0\DB.dll
+C:\Programacion\C#\Asp.net\.NetCore\Sistema.POS\Sistema.POS\DB\obj\Debug\net8.0\refint\DB.dll
+C:\Programacion\C#\Asp.net\.NetCore\Sistema.POS\Sistema.POS\DB\obj\Debug\net8.0\DB.pdb
+C:\Programacion\C#\Asp.net\.NetCore\Sistema.POS\Sistema.POS\DB\obj\Debug\net8.0\ref\DB.dll
