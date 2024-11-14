@@ -10,3 +10,4 @@ C:\Programacion\C#\Asp.net\.NetCore\Sistema.POS\Sistema.POS\DB\obj\Debug\net8.0\
 C:\Programacion\C#\Asp.net\.NetCore\Sistema.POS\Sistema.POS\DB\obj\Debug\net8.0\refint\DB.dll
 C:\Programacion\C#\Asp.net\.NetCore\Sistema.POS\Sistema.POS\DB\obj\Debug\net8.0\DB.pdb
 C:\Programacion\C#\Asp.net\.NetCore\Sistema.POS\Sistema.POS\DB\obj\Debug\net8.0\ref\DB.dll
+C:\Programacion\C#\Asp.net\.NetCore\Sistema.POS\Sistema.POS\DB\obj\Debug\net8.0\DB.sourcelink.json
