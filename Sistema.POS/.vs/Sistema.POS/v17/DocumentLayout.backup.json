@@ -1,16 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Programacion\\C#\\Asp.net\\.NetCore\\Sistema.POS\\Sistema.POS\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{69C42AEB-3636-4A6E-B63D-BF7588CB830B}|POS\\POS.csproj|c:\\programacion\\c#\\asp.net\\.netcore\\sistema.pos\\sistema.pos\\pos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69C42AEB-3636-4A6E-B63D-BF7588CB830B}|POS\\POS.csproj|solutionrelative:pos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69C42AEB-3636-4A6E-B63D-BF7588CB830B}|POS\\POS.csproj|c:\\programacion\\c#\\asp.net\\.netcore\\sistema.pos\\sistema.pos\\pos\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69C42AEB-3636-4A6E-B63D-BF7588CB830B}|POS\\POS.csproj|solutionrelative:pos\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,37 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Programacion\\C#\\Asp.net\\.NetCore\\Sistema.POS\\Sistema.POS\\POS\\Program.cs",
-              "RelativeDocumentMoniker": "POS\\Program.cs",
-              "ToolTip": "C:\\Programacion\\C#\\Asp.net\\.NetCore\\Sistema.POS\\Sistema.POS\\POS\\Program.cs",
-              "RelativeToolTip": "POS\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T05:41:07.406Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ClienteController.cs",
-              "DocumentMoniker": "C:\\Programacion\\C#\\Asp.net\\.NetCore\\Sistema.POS\\Sistema.POS\\POS\\Controllers\\ClienteController.cs",
-              "RelativeDocumentMoniker": "POS\\Controllers\\ClienteController.cs",
-              "ToolTip": "C:\\Programacion\\C#\\Asp.net\\.NetCore\\Sistema.POS\\Sistema.POS\\POS\\Controllers\\ClienteController.cs",
-              "RelativeToolTip": "POS\\Controllers\\ClienteController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAwC4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T05:38:29.419Z",
-              "EditorCaption": ""
             }
           ]
         }

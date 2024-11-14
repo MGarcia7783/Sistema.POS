@@ -20,10 +20,14 @@ builder.Services.AddDbContext<PosContext>(options =>
 
 //Realizar llamada a la inyección
 //Repository
+builder.Services.AddScoped<CategoriaRepository>();
 builder.Services.AddScoped<ClienteRepository>();
+builder.Services.AddScoped<ProductoRepository>();
 
 //Servicie
+builder.Services.AddScoped<CategoriaService>();
 builder.Services.AddScoped<ClienteService>();
+//builder.Services.AddScoped<ProductoService>();
 
 var app = builder.Build();
 

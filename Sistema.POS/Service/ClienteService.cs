@@ -11,6 +11,7 @@ namespace Service
     public class ClienteService : IService<Cliente>
     {
         private readonly ClienteRepository _clienteRepository;
+
         public ClienteService(ClienteRepository clienteRepository)
         {
             _clienteRepository = clienteRepository;
