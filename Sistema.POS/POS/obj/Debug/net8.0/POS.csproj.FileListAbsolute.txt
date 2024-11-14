@@ -111,3 +111,7 @@ C:\Programacion\C#\Asp.net\.NetCore\Sistema.POS\Sistema.POS\POS\bin\Debug\net8.0
 C:\Programacion\C#\Asp.net\.NetCore\Sistema.POS\Sistema.POS\POS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Programacion\C#\Asp.net\.NetCore\Sistema.POS\Sistema.POS\POS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Programacion\C#\Asp.net\.NetCore\Sistema.POS\Sistema.POS\POS\obj\Debug\net8.0\POS.sourcelink.json
+C:\Programacion\C#\Asp.net\.NetCore\Sistema.POS\Sistema.POS\POS\bin\Debug\net8.0\Repository.dll
+C:\Programacion\C#\Asp.net\.NetCore\Sistema.POS\Sistema.POS\POS\bin\Debug\net8.0\Service.dll
+C:\Programacion\C#\Asp.net\.NetCore\Sistema.POS\Sistema.POS\POS\bin\Debug\net8.0\Service.pdb
+C:\Programacion\C#\Asp.net\.NetCore\Sistema.POS\Sistema.POS\POS\bin\Debug\net8.0\Repository.pdb

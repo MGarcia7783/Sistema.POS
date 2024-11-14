@@ -1,5 +1,7 @@
 using DB;
 using Microsoft.EntityFrameworkCore;
+using Repository;
+using Service;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -15,6 +17,13 @@ builder.Services.AddDbContext<PosContext>(options =>
 {
     options.UseNpgsql(builder.Configuration.GetConnectionString("PosConnection"));
 });
+
+//Realizar llamada a la inyección
+//Repository
+builder.Services.AddScoped<ClienteRepository>();
+
+//Servicie
+builder.Services.AddScoped<ClienteService>();
 
 var app = builder.Build();
 

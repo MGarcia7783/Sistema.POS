@@ -931,6 +931,33 @@
         "runtime": {
           "bin/placeholder/DB.dll": {}
         }
+      },
+      "Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "DB": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Repository.dll": {}
+        }
+      },
+      "Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "DB": "1.0.0",
+          "Repository": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Service.dll": {}
+        }
       }
     }
   },
@@ -2592,6 +2619,16 @@
       "type": "project",
       "path": "../DB/DB.csproj",
       "msbuildProject": "../DB/DB.csproj"
+    },
+    "Repository/1.0.0": {
+      "type": "project",
+      "path": "../Repository/Repository.csproj",
+      "msbuildProject": "../Repository/Repository.csproj"
+    },
+    "Service/1.0.0": {
+      "type": "project",
+      "path": "../Service/Service.csproj",
+      "msbuildProject": "../Service/Service.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -2599,6 +2636,7 @@
       "DB >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.10",
       "Npgsql.EntityFrameworkCore.PostgreSQL >= 8.0.10",
+      "Service >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.6.2"
     ]
   },
@@ -2632,6 +2670,9 @@
           "projectReferences": {
             "C:\\Programacion\\C#\\Asp.net\\.NetCore\\Sistema.POS\\Sistema.POS\\DB\\DB.csproj": {
               "projectPath": "C:\\Programacion\\C#\\Asp.net\\.NetCore\\Sistema.POS\\Sistema.POS\\DB\\DB.csproj"
+            },
+            "C:\\Programacion\\C#\\Asp.net\\.NetCore\\Sistema.POS\\Sistema.POS\\Service\\Service.csproj": {
+              "projectPath": "C:\\Programacion\\C#\\Asp.net\\.NetCore\\Sistema.POS\\Sistema.POS\\Service\\Service.csproj"
             }
           }
         }

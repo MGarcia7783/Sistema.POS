@@ -1,0 +1,16 @@
+C:\Programacion\C#\Asp.net\.NetCore\Sistema.POS\Sistema.POS\Repository\bin\Debug\net8.0\Repository.deps.json
+C:\Programacion\C#\Asp.net\.NetCore\Sistema.POS\Sistema.POS\Repository\bin\Debug\net8.0\Repository.dll
+C:\Programacion\C#\Asp.net\.NetCore\Sistema.POS\Sistema.POS\Repository\bin\Debug\net8.0\Repository.pdb
+C:\Programacion\C#\Asp.net\.NetCore\Sistema.POS\Sistema.POS\Repository\bin\Debug\net8.0\DB.dll
+C:\Programacion\C#\Asp.net\.NetCore\Sistema.POS\Sistema.POS\Repository\bin\Debug\net8.0\DB.pdb
+C:\Programacion\C#\Asp.net\.NetCore\Sistema.POS\Sistema.POS\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+C:\Programacion\C#\Asp.net\.NetCore\Sistema.POS\Sistema.POS\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\C#\Asp.net\.NetCore\Sistema.POS\Sistema.POS\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+C:\Programacion\C#\Asp.net\.NetCore\Sistema.POS\Sistema.POS\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+C:\Programacion\C#\Asp.net\.NetCore\Sistema.POS\Sistema.POS\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+C:\Programacion\C#\Asp.net\.NetCore\Sistema.POS\Sistema.POS\Repository\obj\Debug\net8.0\Repository.sourcelink.json
+C:\Programacion\C#\Asp.net\.NetCore\Sistema.POS\Sistema.POS\Repository\obj\Debug\net8.0\Repository.csproj.Up2Date
+C:\Programacion\C#\Asp.net\.NetCore\Sistema.POS\Sistema.POS\Repository\obj\Debug\net8.0\Repository.dll
+C:\Programacion\C#\Asp.net\.NetCore\Sistema.POS\Sistema.POS\Repository\obj\Debug\net8.0\refint\Repository.dll
+C:\Programacion\C#\Asp.net\.NetCore\Sistema.POS\Sistema.POS\Repository\obj\Debug\net8.0\Repository.pdb
+C:\Programacion\C#\Asp.net\.NetCore\Sistema.POS\Sistema.POS\Repository\obj\Debug\net8.0\ref\Repository.dll

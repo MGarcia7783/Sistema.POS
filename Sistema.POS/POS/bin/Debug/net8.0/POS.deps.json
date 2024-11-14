@@ -11,6 +11,7 @@
           "DB": "1.0.0",
           "Microsoft.EntityFrameworkCore.Tools": "8.0.10",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "8.0.10",
+          "Service": "1.0.0",
           "Swashbuckle.AspNetCore": "6.6.2"
         },
         "runtime": {
@@ -578,6 +579,29 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "Repository/1.0.0": {
+        "dependencies": {
+          "DB": "1.0.0"
+        },
+        "runtime": {
+          "Repository.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Service/1.0.0": {
+        "dependencies": {
+          "DB": "1.0.0",
+          "Repository": "1.0.0"
+        },
+        "runtime": {
+          "Service.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -903,6 +927,16 @@
       "hashPath": "system.threading.channels.6.0.0.nupkg.sha512"
     },
     "DB/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Service/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
