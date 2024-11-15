@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Programacion\\C#\\Asp.net\\.NetCore\\Sistema.POS\\Sistema.POS\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31384ADD-79D2-4A84-96DF-23DB820727F4}|Repository\\Repository.csproj|c:\\programacion\\c#\\asp.net\\.netcore\\sistema.pos\\sistema.pos\\repository\\ventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31384ADD-79D2-4A84-96DF-23DB820727F4}|Repository\\Repository.csproj|solutionrelative:repository\\ventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VentaRepository.cs",
+              "DocumentMoniker": "C:\\Programacion\\C#\\Asp.net\\.NetCore\\Sistema.POS\\Sistema.POS\\Repository\\VentaRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\VentaRepository.cs",
+              "ToolTip": "C:\\Programacion\\C#\\Asp.net\\.NetCore\\Sistema.POS\\Sistema.POS\\Repository\\VentaRepository.cs",
+              "RelativeToolTip": "Repository\\VentaRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T04:17:57.197Z",
+              "EditorCaption": ""
             }
           ]
         }

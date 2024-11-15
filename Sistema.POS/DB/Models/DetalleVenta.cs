@@ -5,6 +5,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Text.Json.Serialization;
 
 namespace DB.Models
 {
@@ -18,7 +19,10 @@ namespace DB.Models
 
         //relaciones
         public int ProductoId { get; set; }
-        public virtual Producto Producto { get; set; } = new Producto();
         public int VentaId { get; set; }
+        public virtual Producto ?Producto { get; set; }
+
+        [JsonIgnore]
+        public virtual Venta ?Venta { get; set; }
     }
 }

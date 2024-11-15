@@ -17,6 +17,8 @@ namespace DB.Models
         public string Descripcion { get; set; } = string.Empty;
         public int Cantidad { get; set; }
         public decimal Precio { get; set; }
+
+        [ForeignKey("CategoriaId")]
         public int CategoriaId { get; set; }
 
         // Representa la categoría a la que pertenece el producto

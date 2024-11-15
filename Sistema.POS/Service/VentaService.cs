@@ -22,7 +22,7 @@ namespace Service
             return await _ventaRepository.Create(entity);
         }
 
-        public async Task<Venta> Delete(int id)
+        public async Task<Venta?> Delete(int id)
         {
             return await _ventaRepository.Delete(id);
         }
@@ -32,7 +32,7 @@ namespace Service
             return await _ventaRepository.GetAll();
         }
 
-        public async Task<Venta> GetById(int id)
+        public async Task<Venta?> GetById(int id)
         {
             return await _ventaRepository.GetById(id);
         }

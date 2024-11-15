@@ -19,9 +19,9 @@ namespace Repository
             return entity;
         }
 
-        public async Task<Cliente> Delete(int id)
+        public async Task<Cliente?> Delete(int id)
         {
-            Cliente cliente = await _context.Clientes.FindAsync(id);
+            Cliente? cliente = await _context.Clientes.FindAsync(id);
             if (cliente != null)
             {
                 _context.Clientes.Remove(cliente);
@@ -36,7 +36,7 @@ namespace Repository
             return await _context.Clientes.ToListAsync();
         }
 
-        public async Task<Cliente> GetById(int id)
+        public async Task<Cliente?> GetById(int id)
         {
             return await _context.Clientes.FindAsync(id);
         }

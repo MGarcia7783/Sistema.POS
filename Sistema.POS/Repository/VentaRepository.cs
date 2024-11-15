@@ -24,9 +24,9 @@ namespace Repository
             return entity;
         }
 
-        public async Task<Venta> Delete(int id)
+        public async Task<Venta?> Delete(int id)
         {
-            Venta venta = await _context.Ventas.FindAsync(id);
+            Venta? venta = await _context.Ventas.FindAsync(id);
             if (venta != null)
             {
                 _context.Remove(id);
@@ -39,9 +39,10 @@ namespace Repository
         public async Task<List<Venta>> GetAll()
         {
             return await _context.Ventas.ToListAsync();
+            //return await _context.Ventas.Include(c=>c.DetalleVentas).ToListAsync();
         }
 
-        public async Task<Venta> GetById(int id)
+        public async Task<Venta?> GetById(int id)
         {
             return await _context.Ventas.FindAsync(id);
         }

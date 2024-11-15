@@ -24,9 +24,9 @@ namespace Repository
             return entity;
         }
 
-        public async Task<Categoria> Delete(int id)
+        public async Task<Categoria?> Delete(int id)
         {
-            Categoria categoria = await _context.Categorias.FindAsync(id);
+            Categoria? categoria = await _context.Categorias.FindAsync(id);
             if (categoria != null)
             {
                 _context.Remove(id);
@@ -41,7 +41,7 @@ namespace Repository
             return await _context.Categorias.ToListAsync();
         }
 
-        public async Task<Categoria> GetById(int id)
+        public async Task<Categoria?> GetById(int id)
         {
             return await _context.Categorias.FindAsync(id);
         }
